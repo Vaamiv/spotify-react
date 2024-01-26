@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Projeto criado com React uma réplica do aplicativo do Spotify
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
